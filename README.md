@@ -7,3 +7,21 @@ The "Heart Disease Prediction Using Logistic Regression" project aims to develop
 Project Overview:
 Objective:
 The primary objective of this project is to leverage logistic regression, a powerful machine learning algorithm, to create a predictive model that can classify individuals into two categories: those at high risk and those at low risk of developing heart disease. This model will assist healthcare professionals in making informed decisions and advising patients on necessary lifestyle changes or medical interventions.
+
+Note:
+In this dataset,
+Male:1 Female:0
+chest pain type (4 values -Ordinal):
+  Value 1: typical angina,
+  Value 2: atypical angina,
+  Value 3: non-anginal pain,
+  Value 4: asymptomatic
+BP:resting Blood Pressure
+FBS:Fasting Blood Sugar
+EKG:Electrocardiogram Values
+Max HR:Max Heart Rate
+Exercise angina (binary) (1 = yes; 0 = no)
+ST depression:induced by exercise relative to rest
+Slope of ST segment:(Ordinal) (Value 1: up sloping , Value 2: flat , Value 3: down sloping )
+Fluro:number of major vessels (0–3, Ordinal) observed by fluroscopy
+Thallium:maximum heart rate achieved — (Ordinal): 3 = normal; 6 = fixed defect; 7 = reversible defect
